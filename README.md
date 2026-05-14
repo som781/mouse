@@ -19,6 +19,8 @@ code.
 
 ## Quickstart
 
+Requires Python 3.10 or newer.
+
 ```bash
 # install
 python -m venv .venv && source .venv/bin/activate
@@ -37,6 +39,11 @@ python -m mouse
 python -m pytest
 ```
 
+## Contributing
+
+See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for development setup,
+the test workflow, and contribution guidelines.
+
 ## License
 
-MIT — see [`LICENSE`](./LICENSE).
+Apache 2.0 — see [`LICENSE`](./LICENSE).

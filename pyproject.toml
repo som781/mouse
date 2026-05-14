@@ -6,6 +6,7 @@ build-backend = "hatchling.build"
 name = "mouse"
 version = "0.1.0"
 description = "A lightweight, modular AI agent harness."
+license = "Apache-2.0"
 requires-python = ">=3.10"
 readme = { text = "Mouse — lightweight AI agent harness.", content-type = "text/plain" }
 dependencies = [
