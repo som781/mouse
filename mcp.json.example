@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "example-http": {
+      "url": "https://example.com/mcp",
+      "headers": {
+        "Authorization": "Bearer YOUR_TOKEN_HERE"
+      }
+    },
+    "example-stdio": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-example"]
+    }
+  }
+}

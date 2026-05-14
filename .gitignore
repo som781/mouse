@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+mouse.config.json
+.DS_Store
+.coverage
+.idea/
+mcp.json
+runs/
